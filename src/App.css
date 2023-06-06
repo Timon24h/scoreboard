@@ -46,7 +46,7 @@
 button{
   margin-right: 10px;
   font-weight: bold;
-  background-color: aquamarine;
+  background-color: lightblue;
   width: 30px;
   height: 30px;
   font-size: large;
@@ -56,6 +56,6 @@ button:active{
 }
 
 h1, h3 {
-  background-color: aquamarine;
+  background-color: lightblue;
   padding: 5px;
 }
